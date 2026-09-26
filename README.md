@@ -4,7 +4,7 @@ NFC-powered macro automation for Android.
 Tap a tag, execute any action. Free alternative to MacroDroid.
 
 ## How it works
-1. Add your NFC tags and name them
+1. Add your NFC tags & Apps as Triggers
 2. Build a macro — chain any actions together
 3. Assign a tag or app launch trigger to the macro
 4. Tap from anywhere — no need to open the app
@@ -21,4 +21,4 @@ Download the APK from [Releases](https://github.com/Diamondlight8/tagnod/release
 Enable "Install from unknown sources" and install.
 
 ## Built by
-Hirakjyoti
+Hirak
