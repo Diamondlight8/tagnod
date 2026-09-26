@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TagNod</string>
+    <string name="accessibility_service_description">TagNod Accessibility Service enables macro actions like locking the screen, killing apps, and taking screenshots upon NFC tag tap.</string>
+</resources>
