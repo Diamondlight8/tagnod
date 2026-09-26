@@ -21,4 +21,4 @@ Download the APK from [Releases](https://github.com/Diamondlight8/tagnod/release
 Enable "Install from unknown sources" and install.
 
 ## Built by
-Hirakjyoti Dahal
+Hirakjyoti
